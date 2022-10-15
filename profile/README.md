@@ -1,8 +1,11 @@
 
 <h1 align="center"><a href="https://botpad.hashnode.dev"><img src="https://i.ibb.co/j81ftjv/marslogowhite.png" alt="marslogowhite" border="0" align="center" width="100" height="100"></a> Mechatronics and Robotics Society, TIET</h1>
 
-![Github](https://img.shields.io/github/followers/mars-tu?label=Follow&style=social)
-![views](https://komarev.com/ghpvc/?username=mars-tu)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mars-tu?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=mars-tu" />
+</p>
+
 
 ## Who are we?
 Mechatronics and Robotics Society is TIET’s sole society dedicated entirely to the field of  robotics. The society is a blend of hardware and software intensive fields, and offers students the opportunity to work in an increasingly pertinent field within tech.
